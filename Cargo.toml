@@ -1,0 +1,8 @@
+[package]
+name = "duality"
+version = "0.0.0"
+edition = "2021"
+description = "Placeholder"
+license = "MIT/Apache-2.0" 
+
+[dependencies]
